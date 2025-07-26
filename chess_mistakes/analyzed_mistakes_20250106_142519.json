@@ -1,0 +1,2392 @@
+[
+  {
+    "game_url": "https://www.chess.com/game/daily/750294679",
+    "move_number": 19,
+    "player_color": "Black",
+    "move_played": "Bf6",
+    "position_before": "+2.63",
+    "position_after": "+7.76",
+    "position_loss": "-5.13",
+    "position_svg": "chess_mistakes/game_1_move_19_20250106_142018_position.svg",
+    "better_moves": [
+      {
+        "move": "Nd6",
+        "score": "+2.63"
+      },
+      {
+        "move": "Bc5",
+        "score": "+3.51"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_1_move_19_20250106_142018_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294679",
+    "move_number": 23,
+    "player_color": "Black",
+    "move_played": "O-O",
+    "position_before": "+3.32",
+    "position_after": "+7.53",
+    "position_loss": "-4.21",
+    "position_svg": "chess_mistakes/game_1_move_23_20250106_142018_position.svg",
+    "better_moves": [
+      {
+        "move": "Qxb5",
+        "score": "+1.04"
+      },
+      {
+        "move": "Nf5",
+        "score": "+4.32"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_1_move_23_20250106_142018_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294679",
+    "move_number": 11,
+    "player_color": "Black",
+    "move_played": "Nf6",
+    "position_before": "-0.59",
+    "position_after": "+3.37",
+    "position_loss": "-3.96",
+    "position_svg": "chess_mistakes/game_1_move_11_20250106_142018_position.svg",
+    "better_moves": [
+      {
+        "move": "Nd3+",
+        "score": "-0.59"
+      },
+      {
+        "move": "e6",
+        "score": "+2.65"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_1_move_11_20250106_142018_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294559",
+    "move_number": 36,
+    "player_color": "White",
+    "move_played": "Rb2",
+    "position_before": "-13.93",
+    "position_after": "-20.17",
+    "position_loss": "-6.24",
+    "position_svg": "chess_mistakes/game_2_move_36_20250106_142026_position.svg",
+    "better_moves": [
+      {
+        "move": "Rg2",
+        "score": "-13.70"
+      },
+      {
+        "move": "Rc2",
+        "score": "-14.30"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_2_move_36_20250106_142026_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294559",
+    "move_number": 35,
+    "player_color": "White",
+    "move_played": "Ke5",
+    "position_before": "-13.01",
+    "position_after": "-19.15",
+    "position_loss": "-6.14",
+    "position_svg": "chess_mistakes/game_2_move_35_20250106_142026_position.svg",
+    "better_moves": [
+      {
+        "move": "Kf3",
+        "score": "-13.09"
+      },
+      {
+        "move": "Kd3",
+        "score": "-20.38"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_2_move_35_20250106_142026_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294559",
+    "move_number": 28,
+    "player_color": "White",
+    "move_played": "Nd7",
+    "position_before": "-7.69",
+    "position_after": "-12.10",
+    "position_loss": "-4.41",
+    "position_svg": "chess_mistakes/game_2_move_28_20250106_142026_position.svg",
+    "better_moves": [
+      {
+        "move": "Nc4",
+        "score": "-8.21"
+      },
+      {
+        "move": "Rd2",
+        "score": "-8.21"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_2_move_28_20250106_142026_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294663",
+    "move_number": 22,
+    "player_color": "Black",
+    "move_played": "Nh6",
+    "position_before": "-14.23",
+    "position_after": "-10.20",
+    "position_loss": "-4.03",
+    "position_svg": "chess_mistakes/game_3_move_22_20250106_142032_position.svg",
+    "better_moves": [
+      {
+        "move": "g5",
+        "score": "-14.16"
+      },
+      {
+        "move": "Ne7",
+        "score": "-14.16"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_3_move_22_20250106_142032_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294663",
+    "move_number": 18,
+    "player_color": "Black",
+    "move_played": "Bxd2",
+    "position_before": "-12.92",
+    "position_after": "-11.11",
+    "position_loss": "-1.81",
+    "position_svg": "chess_mistakes/game_3_move_18_20250106_142032_position.svg",
+    "better_moves": [
+      {
+        "move": "f5",
+        "score": "-13.01"
+      },
+      {
+        "move": "Ne7",
+        "score": "-12.07"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_3_move_18_20250106_142032_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294663",
+    "move_number": 2,
+    "player_color": "Black",
+    "move_played": "f6",
+    "position_before": "-0.69",
+    "position_after": "+1.07",
+    "position_loss": "-1.76",
+    "position_svg": "chess_mistakes/game_3_move_2_20250106_142032_position.svg",
+    "better_moves": [
+      {
+        "move": "Nf6",
+        "score": "-0.72"
+      },
+      {
+        "move": "Be7",
+        "score": "-0.34"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_3_move_2_20250106_142032_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294685",
+    "move_number": 16,
+    "player_color": "White",
+    "move_played": "Bxf8",
+    "position_before": "+0.01",
+    "position_after": "M-1",
+    "position_loss": "-100000.01",
+    "position_svg": "chess_mistakes/game_4_move_16_20250106_142036_position.svg",
+    "better_moves": [
+      {
+        "move": "Qxd5+",
+        "score": "-0.12"
+      },
+      {
+        "move": "h4",
+        "score": "-2.43"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_4_move_16_20250106_142036_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294685",
+    "move_number": 15,
+    "player_color": "White",
+    "move_played": "Bb4",
+    "position_before": "-2.53",
+    "position_after": "-4.29",
+    "position_loss": "-1.76",
+    "position_svg": "chess_mistakes/game_4_move_15_20250106_142036_position.svg",
+    "better_moves": [
+      {
+        "move": "c4",
+        "score": "-2.26"
+      },
+      {
+        "move": "f3",
+        "score": "-2.90"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_4_move_15_20250106_142036_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294685",
+    "move_number": 8,
+    "player_color": "White",
+    "move_played": "O-O",
+    "position_before": "-0.97",
+    "position_after": "-2.38",
+    "position_loss": "-1.41",
+    "position_svg": "chess_mistakes/game_4_move_8_20250106_142036_position.svg",
+    "better_moves": [
+      {
+        "move": "f4",
+        "score": "-0.97"
+      },
+      {
+        "move": "Qe2",
+        "score": "-1.27"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_4_move_8_20250106_142036_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294485",
+    "move_number": 6,
+    "player_color": "Black",
+    "move_played": "Be7",
+    "position_before": "+3.70",
+    "position_after": "+8.57",
+    "position_loss": "-4.87",
+    "position_svg": "chess_mistakes/game_5_move_6_20250106_142049_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxf2",
+        "score": "+4.07"
+      },
+      {
+        "move": "Bc5",
+        "score": "+4.49"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_5_move_6_20250106_142049_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294485",
+    "move_number": 9,
+    "player_color": "Black",
+    "move_played": "g6",
+    "position_before": "+4.68",
+    "position_after": "+9.00",
+    "position_loss": "-4.32",
+    "position_svg": "chess_mistakes/game_5_move_9_20250106_142049_position.svg",
+    "better_moves": [
+      {
+        "move": "g6",
+        "score": "+7.82"
+      },
+      {
+        "move": "f5",
+        "score": "+13.11"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_5_move_9_20250106_142049_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294485",
+    "move_number": 5,
+    "player_color": "Black",
+    "move_played": "Bb4+",
+    "position_before": "+0.66",
+    "position_after": "+4.04",
+    "position_loss": "-3.38",
+    "position_svg": "chess_mistakes/game_5_move_5_20250106_142049_position.svg",
+    "better_moves": [
+      {
+        "move": "d6",
+        "score": "+0.73"
+      },
+      {
+        "move": "Nc5",
+        "score": "+1.33"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_5_move_5_20250106_142049_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294687",
+    "move_number": 22,
+    "player_color": "White",
+    "move_played": "f8=Q#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_8_move_22_20250106_142053_position.svg",
+    "better_moves": [
+      {
+        "move": "f8=Q#",
+        "score": "+0.00"
+      },
+      {
+        "move": "f8=R#",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_8_move_22_20250106_142053_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294687",
+    "move_number": 21,
+    "player_color": "White",
+    "move_played": "Nd2",
+    "position_before": "M2",
+    "position_after": "+14.46",
+    "position_loss": "-99985.54",
+    "position_svg": "chess_mistakes/game_8_move_21_20250106_142053_position.svg",
+    "better_moves": [
+      {
+        "move": "f8=R+",
+        "score": "+0.00"
+      },
+      {
+        "move": "f8=Q+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_8_move_21_20250106_142053_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/daily/750294687",
+    "move_number": 20,
+    "player_color": "White",
+    "move_played": "Ng3",
+    "position_before": "M2",
+    "position_after": "+15.00",
+    "position_loss": "-99985.00",
+    "position_svg": "chess_mistakes/game_8_move_20_20250106_142053_position.svg",
+    "better_moves": [
+      {
+        "move": "f8=R+",
+        "score": "+0.00"
+      },
+      {
+        "move": "f8=Q+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_8_move_20_20250106_142053_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121802546378",
+    "move_number": 21,
+    "player_color": "Black",
+    "move_played": "Bg4",
+    "position_before": "-2.83",
+    "position_after": "+8.24",
+    "position_loss": "-11.07",
+    "position_svg": "chess_mistakes/game_11_move_21_20250106_142103_position.svg",
+    "better_moves": [
+      {
+        "move": "Kh8",
+        "score": "-2.86"
+      },
+      {
+        "move": "Rfc8",
+        "score": "-2.12"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_11_move_21_20250106_142103_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121802546378",
+    "move_number": 37,
+    "player_color": "Black",
+    "move_played": "Rc1",
+    "position_before": "-9.00",
+    "position_after": "-4.28",
+    "position_loss": "-4.72",
+    "position_svg": "chess_mistakes/game_11_move_37_20250106_142103_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxd3",
+        "score": "-9.05"
+      },
+      {
+        "move": "a5",
+        "score": "-5.63"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_11_move_37_20250106_142103_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121802546378",
+    "move_number": 18,
+    "player_color": "Black",
+    "move_played": "Qxc3",
+    "position_before": "-6.55",
+    "position_after": "-2.36",
+    "position_loss": "-4.19",
+    "position_svg": "chess_mistakes/game_11_move_18_20250106_142103_position.svg",
+    "better_moves": [
+      {
+        "move": "dxc3",
+        "score": "-6.92"
+      },
+      {
+        "move": "a5",
+        "score": "-5.37"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_11_move_18_20250106_142103_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121787358508",
+    "move_number": 13,
+    "player_color": "White",
+    "move_played": "Qe2",
+    "position_before": "+1.70",
+    "position_after": "-0.17",
+    "position_loss": "-1.87",
+    "position_svg": "chess_mistakes/game_13_move_13_20250106_142109_position.svg",
+    "better_moves": [
+      {
+        "move": "Re1",
+        "score": "+1.29"
+      },
+      {
+        "move": "Nc4",
+        "score": "+0.99"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_13_move_13_20250106_142109_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121787358508",
+    "move_number": 10,
+    "player_color": "White",
+    "move_played": "Bxe4",
+    "position_before": "+1.95",
+    "position_after": "+0.51",
+    "position_loss": "-1.44",
+    "position_svg": "chess_mistakes/game_13_move_10_20250106_142109_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxe4",
+        "score": "+1.62"
+      },
+      {
+        "move": "Bxe4",
+        "score": "+0.83"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_13_move_10_20250106_142109_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121786143264",
+    "move_number": 15,
+    "player_color": "White",
+    "move_played": "Qd2",
+    "position_before": "+1.03",
+    "position_after": "-1.82",
+    "position_loss": "-2.85",
+    "position_svg": "chess_mistakes/game_14_move_15_20250106_142118_position.svg",
+    "better_moves": [
+      {
+        "move": "Qd3",
+        "score": "+1.11"
+      },
+      {
+        "move": "Bd2",
+        "score": "+0.66"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_14_move_15_20250106_142118_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121786143264",
+    "move_number": 28,
+    "player_color": "White",
+    "move_played": "Rfd1",
+    "position_before": "+2.86",
+    "position_after": "+0.54",
+    "position_loss": "-2.32",
+    "position_svg": "chess_mistakes/game_14_move_28_20250106_142118_position.svg",
+    "better_moves": [
+      {
+        "move": "Qe3",
+        "score": "+3.27"
+      },
+      {
+        "move": "Ne2",
+        "score": "+1.58"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_14_move_28_20250106_142118_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121786143264",
+    "move_number": 30,
+    "player_color": "White",
+    "move_played": "Qxg6",
+    "position_before": "+2.83",
+    "position_after": "+0.54",
+    "position_loss": "-2.29",
+    "position_svg": "chess_mistakes/game_14_move_30_20250106_142118_position.svg",
+    "better_moves": [
+      {
+        "move": "Qd3",
+        "score": "+4.88"
+      },
+      {
+        "move": "Qxg6",
+        "score": "+1.75"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_14_move_30_20250106_142118_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121785605636",
+    "move_number": 23,
+    "player_color": "White",
+    "move_played": "Ne6",
+    "position_before": "+4.94",
+    "position_after": "-0.07",
+    "position_loss": "-5.01",
+    "position_svg": "chess_mistakes/game_15_move_23_20250106_142127_position.svg",
+    "better_moves": [
+      {
+        "move": "Re7",
+        "score": "+4.87"
+      },
+      {
+        "move": "h4",
+        "score": "+3.93"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_15_move_23_20250106_142127_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121785605636",
+    "move_number": 38,
+    "player_color": "White",
+    "move_played": "Re1",
+    "position_before": "+6.53",
+    "position_after": "+3.39",
+    "position_loss": "-3.14",
+    "position_svg": "chess_mistakes/game_15_move_38_20250106_142127_position.svg",
+    "better_moves": [
+      {
+        "move": "a4",
+        "score": "+6.39"
+      },
+      {
+        "move": "Re1",
+        "score": "+3.78"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_15_move_38_20250106_142127_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121785605636",
+    "move_number": 34,
+    "player_color": "White",
+    "move_played": "b4+",
+    "position_before": "+1.50",
+    "position_after": "-1.07",
+    "position_loss": "-2.57",
+    "position_svg": "chess_mistakes/game_15_move_34_20250106_142127_position.svg",
+    "better_moves": [
+      {
+        "move": "h4",
+        "score": "+2.58"
+      },
+      {
+        "move": "Rd4",
+        "score": "+1.53"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_15_move_34_20250106_142127_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121784906852",
+    "move_number": 17,
+    "player_color": "Black",
+    "move_played": "f6",
+    "position_before": "+11.76",
+    "position_after": "M4",
+    "position_loss": "-99988.24",
+    "position_svg": "chess_mistakes/game_16_move_17_20250106_142137_position.svg",
+    "better_moves": [
+      {
+        "move": "f5",
+        "score": "+13.79"
+      },
+      {
+        "move": "Nxd3+",
+        "score": "+18.46"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_16_move_17_20250106_142137_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121784906852",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "Nc5",
+    "position_before": "+0.77",
+    "position_after": "+10.32",
+    "position_loss": "-9.55",
+    "position_svg": "chess_mistakes/game_16_move_16_20250106_142137_position.svg",
+    "better_moves": [
+      {
+        "move": "Re8",
+        "score": "+1.32"
+      },
+      {
+        "move": "g6",
+        "score": "+2.75"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_16_move_16_20250106_142137_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121784906852",
+    "move_number": 36,
+    "player_color": "Black",
+    "move_played": "b3",
+    "position_before": "-18.38",
+    "position_after": "-10.61",
+    "position_loss": "-7.77",
+    "position_svg": "chess_mistakes/game_16_move_36_20250106_142137_position.svg",
+    "better_moves": [
+      {
+        "move": "Qb2+",
+        "score": "-19.41"
+      },
+      {
+        "move": "Ra2+",
+        "score": "-16.38"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_16_move_36_20250106_142137_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121780055028",
+    "move_number": 22,
+    "player_color": "White",
+    "move_played": "Qg7#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_17_move_22_20250106_142142_position.svg",
+    "better_moves": [
+      {
+        "move": "Qg7#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qxf6+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_17_move_22_20250106_142142_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121780055028",
+    "move_number": 13,
+    "player_color": "White",
+    "move_played": "e4",
+    "position_before": "+7.72",
+    "position_after": "+0.00",
+    "position_loss": "-7.72",
+    "position_svg": "chess_mistakes/game_17_move_13_20250106_142142_position.svg",
+    "better_moves": [
+      {
+        "move": "Be2",
+        "score": "+7.57"
+      },
+      {
+        "move": "Ne1",
+        "score": "+6.92"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_17_move_13_20250106_142142_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121780055028",
+    "move_number": 12,
+    "player_color": "White",
+    "move_played": "Bd2",
+    "position_before": "+8.00",
+    "position_after": "+6.19",
+    "position_loss": "-1.81",
+    "position_svg": "chess_mistakes/game_17_move_12_20250106_142142_position.svg",
+    "better_moves": [
+      {
+        "move": "h3",
+        "score": "+7.46"
+      },
+      {
+        "move": "Nh4",
+        "score": "+7.29"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_17_move_12_20250106_142142_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779689082",
+    "move_number": 20,
+    "player_color": "Black",
+    "move_played": "h5",
+    "position_before": "-6.23",
+    "position_after": "-0.92",
+    "position_loss": "-5.31",
+    "position_svg": "chess_mistakes/game_18_move_20_20250106_142150_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxd2",
+        "score": "-6.30"
+      },
+      {
+        "move": "g6",
+        "score": "-1.75"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_18_move_20_20250106_142150_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779689082",
+    "move_number": 37,
+    "player_color": "Black",
+    "move_played": "g3",
+    "position_before": "-66.03",
+    "position_after": "-60.81",
+    "position_loss": "-5.22",
+    "position_svg": "chess_mistakes/game_18_move_37_20250106_142150_position.svg",
+    "better_moves": [
+      {
+        "move": "Kg7",
+        "score": "-66.03"
+      },
+      {
+        "move": "Rxc5+",
+        "score": "-65.94"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_18_move_37_20250106_142150_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779689082",
+    "move_number": 17,
+    "player_color": "Black",
+    "move_played": "d4",
+    "position_before": "-4.12",
+    "position_after": "-0.36",
+    "position_loss": "-3.76",
+    "position_svg": "chess_mistakes/game_18_move_17_20250106_142150_position.svg",
+    "better_moves": [
+      {
+        "move": "c6",
+        "score": "-3.41"
+      },
+      {
+        "move": "Be6",
+        "score": "-3.22"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_18_move_17_20250106_142150_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779349818",
+    "move_number": 20,
+    "player_color": "White",
+    "move_played": "Bf5",
+    "position_before": "+14.44",
+    "position_after": "+9.31",
+    "position_loss": "-5.13",
+    "position_svg": "chess_mistakes/game_19_move_20_20250106_142156_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxe6+",
+        "score": "+16.50"
+      },
+      {
+        "move": "Qb4",
+        "score": "+13.76"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_19_move_20_20250106_142156_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779349818",
+    "move_number": 28,
+    "player_color": "White",
+    "move_played": "Rd8",
+    "position_before": "+14.15",
+    "position_after": "+9.69",
+    "position_loss": "-4.46",
+    "position_svg": "chess_mistakes/game_19_move_28_20250106_142156_position.svg",
+    "better_moves": [
+      {
+        "move": "Qe3",
+        "score": "+14.23"
+      },
+      {
+        "move": "Rxb7",
+        "score": "+12.13"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_19_move_28_20250106_142156_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779349818",
+    "move_number": 15,
+    "player_color": "White",
+    "move_played": "Qd2",
+    "position_before": "+9.15",
+    "position_after": "+5.14",
+    "position_loss": "-4.01",
+    "position_svg": "chess_mistakes/game_19_move_15_20250106_142156_position.svg",
+    "better_moves": [
+      {
+        "move": "Nd4",
+        "score": "+9.07"
+      },
+      {
+        "move": "Nh4",
+        "score": "+6.11"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_19_move_15_20250106_142156_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779177620",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "Nc2+",
+    "position_before": "M-1",
+    "position_after": "-12.46",
+    "position_loss": "-99987.54",
+    "position_svg": "chess_mistakes/game_20_move_16_20250106_142201_position.svg",
+    "better_moves": [
+      {
+        "move": "Qe1#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qf3+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_20_move_16_20250106_142201_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779177620",
+    "move_number": 41,
+    "player_color": "Black",
+    "move_played": "b5",
+    "position_before": "-60.78",
+    "position_after": "+0.00",
+    "position_loss": "-60.78",
+    "position_svg": "chess_mistakes/game_20_move_41_20250106_142201_position.svg",
+    "better_moves": [
+      {
+        "move": "Ra5",
+        "score": "-60.86"
+      },
+      {
+        "move": "Ra3",
+        "score": "-60.78"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_20_move_41_20250106_142201_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779177620",
+    "move_number": 21,
+    "player_color": "Black",
+    "move_played": "Rxb2+",
+    "position_before": "-25.38",
+    "position_after": "-8.29",
+    "position_loss": "-17.09",
+    "position_svg": "chess_mistakes/game_20_move_21_20250106_142201_position.svg",
+    "better_moves": [
+      {
+        "move": "Qe1+",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qxd5",
+        "score": "-7.90"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_20_move_21_20250106_142201_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779099512",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "Bg4",
+    "position_before": "+1.20",
+    "position_after": "+13.15",
+    "position_loss": "-11.95",
+    "position_svg": "chess_mistakes/game_21_move_16_20250106_142205_position.svg",
+    "better_moves": [
+      {
+        "move": "Kg8",
+        "score": "+1.54"
+      },
+      {
+        "move": "Qf6",
+        "score": "+2.31"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_21_move_16_20250106_142205_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779099512",
+    "move_number": 14,
+    "player_color": "Black",
+    "move_played": "Rxg5",
+    "position_before": "-3.71",
+    "position_after": "+2.14",
+    "position_loss": "-5.85",
+    "position_svg": "chess_mistakes/game_21_move_14_20250106_142205_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxg5",
+        "score": "-4.69"
+      },
+      {
+        "move": "Nf8",
+        "score": "-2.95"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_21_move_14_20250106_142205_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121779099512",
+    "move_number": 19,
+    "player_color": "Black",
+    "move_played": "Bf5",
+    "position_before": "+7.84",
+    "position_after": "+12.46",
+    "position_loss": "-4.62",
+    "position_svg": "chess_mistakes/game_21_move_19_20250106_142205_position.svg",
+    "better_moves": [
+      {
+        "move": "Rh5",
+        "score": "+8.00"
+      },
+      {
+        "move": "f6",
+        "score": "+8.06"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_21_move_19_20250106_142205_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121772270780",
+    "move_number": 61,
+    "player_color": "White",
+    "move_played": "Qg5#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_23_move_61_20250106_142224_position.svg",
+    "better_moves": [
+      {
+        "move": "Qg5#",
+        "score": "+0.00"
+      },
+      {
+        "move": "a4",
+        "score": "+65.39"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_23_move_61_20250106_142224_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121772270780",
+    "move_number": 41,
+    "player_color": "White",
+    "move_played": "Rf8",
+    "position_before": "M4",
+    "position_after": "+11.95",
+    "position_loss": "-99988.05",
+    "position_svg": "chess_mistakes/game_23_move_41_20250106_142224_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxe6+",
+        "score": "+0.00"
+      },
+      {
+        "move": "Rxb7",
+        "score": "+12.53"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_23_move_41_20250106_142224_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121772270780",
+    "move_number": 16,
+    "player_color": "White",
+    "move_played": "dxe5",
+    "position_before": "+7.61",
+    "position_after": "+0.07",
+    "position_loss": "-7.54",
+    "position_svg": "chess_mistakes/game_23_move_16_20250106_142224_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxe5",
+        "score": "+5.62"
+      },
+      {
+        "move": "cxd5",
+        "score": "+1.31"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_23_move_16_20250106_142224_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771856924",
+    "move_number": 59,
+    "player_color": "White",
+    "move_played": "Qg5#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_24_move_59_20250106_142235_position.svg",
+    "better_moves": [
+      {
+        "move": "Qg5#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Kxf5",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_24_move_59_20250106_142235_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771856924",
+    "move_number": 56,
+    "player_color": "White",
+    "move_played": "Qg3+",
+    "position_before": "M4",
+    "position_after": "+58.45",
+    "position_loss": "-99941.55",
+    "position_svg": "chess_mistakes/game_24_move_56_20250106_142235_position.svg",
+    "better_moves": [
+      {
+        "move": "Qh6",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qg3+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_24_move_56_20250106_142235_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771856924",
+    "move_number": 51,
+    "player_color": "White",
+    "move_played": "Qf7",
+    "position_before": "M5",
+    "position_after": "+58.99",
+    "position_loss": "-99941.01",
+    "position_svg": "chess_mistakes/game_24_move_51_20250106_142235_position.svg",
+    "better_moves": [
+      {
+        "move": "Kf2",
+        "score": "+0.00"
+      },
+      {
+        "move": "Kf1",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_24_move_51_20250106_142235_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771549658",
+    "move_number": 39,
+    "player_color": "Black",
+    "move_played": "Ng2",
+    "position_before": "-2.62",
+    "position_after": "M1",
+    "position_loss": "-100002.62",
+    "position_svg": "chess_mistakes/game_25_move_39_20250106_142244_position.svg",
+    "better_moves": [
+      {
+        "move": "Rh3+",
+        "score": "+0.00"
+      },
+      {
+        "move": "Rb8",
+        "score": "+9.20"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_25_move_39_20250106_142244_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771549658",
+    "move_number": 38,
+    "player_color": "Black",
+    "move_played": "Nf4+",
+    "position_before": "M-1",
+    "position_after": "+1.83",
+    "position_loss": "-100001.83",
+    "position_svg": "chess_mistakes/game_25_move_38_20250106_142244_position.svg",
+    "better_moves": [
+      {
+        "move": "Rh4#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Rb8",
+        "score": "-21.53"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_25_move_38_20250106_142244_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771549658",
+    "move_number": 9,
+    "player_color": "Black",
+    "move_played": "Be6",
+    "position_before": "-2.21",
+    "position_after": "+3.87",
+    "position_loss": "-6.08",
+    "position_svg": "chess_mistakes/game_25_move_9_20250106_142244_position.svg",
+    "better_moves": [
+      {
+        "move": "exd4",
+        "score": "-2.28"
+      },
+      {
+        "move": "Nxe4",
+        "score": "-2.22"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_25_move_9_20250106_142244_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771262164",
+    "move_number": 23,
+    "player_color": "Black",
+    "move_played": "Ba5+",
+    "position_before": "M-3",
+    "position_after": "-16.56",
+    "position_loss": "-99983.44",
+    "position_svg": "chess_mistakes/game_26_move_23_20250106_142250_position.svg",
+    "better_moves": [
+      {
+        "move": "Qh4+",
+        "score": "+0.00"
+      },
+      {
+        "move": "Bxe2",
+        "score": "-22.53"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_26_move_23_20250106_142250_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771262164",
+    "move_number": 22,
+    "player_color": "Black",
+    "move_played": "Bf3",
+    "position_before": "M-3",
+    "position_after": "-16.67",
+    "position_loss": "-99983.33",
+    "position_svg": "chess_mistakes/game_26_move_22_20250106_142250_position.svg",
+    "better_moves": [
+      {
+        "move": "Qh4+",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qe3",
+        "score": "-23.37"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_26_move_22_20250106_142250_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121771262164",
+    "move_number": 24,
+    "player_color": "Black",
+    "move_played": "Qh4+",
+    "position_before": "-16.76",
+    "position_after": "-11.42",
+    "position_loss": "-5.34",
+    "position_svg": "chess_mistakes/game_26_move_24_20250106_142250_position.svg",
+    "better_moves": [
+      {
+        "move": "Nb4",
+        "score": "-17.89"
+      },
+      {
+        "move": "Bxe2",
+        "score": "-14.92"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_26_move_24_20250106_142250_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770929652",
+    "move_number": 15,
+    "player_color": "White",
+    "move_played": "O-O",
+    "position_before": "+5.61",
+    "position_after": "-4.27",
+    "position_loss": "-9.88",
+    "position_svg": "chess_mistakes/game_27_move_15_20250106_142255_position.svg",
+    "better_moves": [
+      {
+        "move": "exd6",
+        "score": "+3.57"
+      },
+      {
+        "move": "h4",
+        "score": "-2.47"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_27_move_15_20250106_142255_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770929652",
+    "move_number": 6,
+    "player_color": "White",
+    "move_played": "d6",
+    "position_before": "+1.82",
+    "position_after": "-0.77",
+    "position_loss": "-2.59",
+    "position_svg": "chess_mistakes/game_27_move_6_20250106_142255_position.svg",
+    "better_moves": [
+      {
+        "move": "Bg5",
+        "score": "+2.36"
+      },
+      {
+        "move": "Qe2",
+        "score": "+1.10"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_27_move_6_20250106_142255_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770929652",
+    "move_number": 19,
+    "player_color": "White",
+    "move_played": "Rb7",
+    "position_before": "-3.50",
+    "position_after": "-5.60",
+    "position_loss": "-2.10",
+    "position_svg": "chess_mistakes/game_27_move_19_20250106_142255_position.svg",
+    "better_moves": [
+      {
+        "move": "Bd2",
+        "score": "-3.82"
+      },
+      {
+        "move": "Rb2",
+        "score": "-4.41"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_27_move_19_20250106_142255_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770794610",
+    "move_number": 6,
+    "player_color": "Black",
+    "move_played": "Bd7",
+    "position_before": "-8.08",
+    "position_after": "-2.58",
+    "position_loss": "-5.50",
+    "position_svg": "chess_mistakes/game_28_move_6_20250106_142256_position.svg",
+    "better_moves": [
+      {
+        "move": "Nc6",
+        "score": "-8.46"
+      },
+      {
+        "move": "Nd7",
+        "score": "-8.09"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_28_move_6_20250106_142256_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770794610",
+    "move_number": 5,
+    "player_color": "Black",
+    "move_played": "fxg6",
+    "position_before": "-9.49",
+    "position_after": "-7.39",
+    "position_loss": "-2.10",
+    "position_svg": "chess_mistakes/game_28_move_5_20250106_142256_position.svg",
+    "better_moves": [
+      {
+        "move": "hxg6",
+        "score": "-9.07"
+      },
+      {
+        "move": "fxg6",
+        "score": "-7.30"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_28_move_5_20250106_142256_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770618288",
+    "move_number": 42,
+    "player_color": "White",
+    "move_played": "Kh6",
+    "position_before": "+7.99",
+    "position_after": "-10.44",
+    "position_loss": "-18.43",
+    "position_svg": "chess_mistakes/game_29_move_42_20250106_142306_position.svg",
+    "better_moves": [
+      {
+        "move": "Kg6",
+        "score": "+8.21"
+      },
+      {
+        "move": "g6",
+        "score": "+6.88"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_29_move_42_20250106_142306_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770618288",
+    "move_number": 46,
+    "player_color": "White",
+    "move_played": "Ke6",
+    "position_before": "-62.24",
+    "position_after": "-66.07",
+    "position_loss": "-3.83",
+    "position_svg": "chess_mistakes/game_29_move_46_20250106_142306_position.svg",
+    "better_moves": [
+      {
+        "move": "Kg4",
+        "score": "-62.24"
+      },
+      {
+        "move": "Ke6",
+        "score": "-65.83"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_29_move_46_20250106_142306_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770618288",
+    "move_number": 29,
+    "player_color": "White",
+    "move_played": "Kg3",
+    "position_before": "+4.45",
+    "position_after": "+1.55",
+    "position_loss": "-2.90",
+    "position_svg": "chess_mistakes/game_29_move_29_20250106_142306_position.svg",
+    "better_moves": [
+      {
+        "move": "Re2",
+        "score": "+4.54"
+      },
+      {
+        "move": "Kg3",
+        "score": "+1.71"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_29_move_29_20250106_142306_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770545832",
+    "move_number": 5,
+    "player_color": "Black",
+    "move_played": "Nb6",
+    "position_before": "+0.37",
+    "position_after": "+5.76",
+    "position_loss": "-5.39",
+    "position_svg": "chess_mistakes/game_30_move_5_20250106_142308_position.svg",
+    "better_moves": [
+      {
+        "move": "Bb4+",
+        "score": "+0.48"
+      },
+      {
+        "move": "Bc5",
+        "score": "+0.56"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_30_move_5_20250106_142308_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770545832",
+    "move_number": 6,
+    "player_color": "Black",
+    "move_played": "Ke7",
+    "position_before": "+4.83",
+    "position_after": "+6.23",
+    "position_loss": "-1.40",
+    "position_svg": "chess_mistakes/game_30_move_6_20250106_142308_position.svg",
+    "better_moves": [
+      {
+        "move": "Ke7",
+        "score": "+5.61"
+      },
+      {
+        "move": "Kxf7",
+        "score": "+10.39"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_30_move_6_20250106_142308_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770411894",
+    "move_number": 10,
+    "player_color": "Black",
+    "move_played": "Nxf3+",
+    "position_before": "-10.38",
+    "position_after": "-7.15",
+    "position_loss": "-3.23",
+    "position_svg": "chess_mistakes/game_31_move_10_20250106_142312_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxf3+",
+        "score": "-10.38"
+      },
+      {
+        "move": "Bxf3",
+        "score": "-9.84"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_31_move_10_20250106_142312_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770210986",
+    "move_number": 23,
+    "player_color": "White",
+    "move_played": "Nxg5",
+    "position_before": "+7.49",
+    "position_after": "M-2",
+    "position_loss": "-100007.49",
+    "position_svg": "chess_mistakes/game_33_move_23_20250106_142318_position.svg",
+    "better_moves": [
+      {
+        "move": "c3",
+        "score": "+7.85"
+      },
+      {
+        "move": "Re1",
+        "score": "+7.50"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_33_move_23_20250106_142318_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770210986",
+    "move_number": 3,
+    "player_color": "White",
+    "move_played": "Be3",
+    "position_before": "+2.34",
+    "position_after": "-0.71",
+    "position_loss": "-3.05",
+    "position_svg": "chess_mistakes/game_33_move_3_20250106_142318_position.svg",
+    "better_moves": [
+      {
+        "move": "Nc3",
+        "score": "+2.29"
+      },
+      {
+        "move": "a3",
+        "score": "+1.96"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_33_move_3_20250106_142318_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121770210986",
+    "move_number": 16,
+    "player_color": "White",
+    "move_played": "O-O-O",
+    "position_before": "+7.38",
+    "position_after": "+5.69",
+    "position_loss": "-1.69",
+    "position_svg": "chess_mistakes/game_33_move_16_20250106_142318_position.svg",
+    "better_moves": [
+      {
+        "move": "Rf1",
+        "score": "+7.61"
+      },
+      {
+        "move": "O-O",
+        "score": "+7.53"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_33_move_16_20250106_142318_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769917976",
+    "move_number": 39,
+    "player_color": "White",
+    "move_played": "Qxa3",
+    "position_before": "-12.94",
+    "position_after": "M-6",
+    "position_loss": "-99987.06",
+    "position_svg": "chess_mistakes/game_34_move_39_20250106_142329_position.svg",
+    "better_moves": [
+      {
+        "move": "Qg2",
+        "score": "-14.24"
+      },
+      {
+        "move": "Kg1",
+        "score": "-15.07"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_34_move_39_20250106_142329_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769917976",
+    "move_number": 40,
+    "player_color": "White",
+    "move_played": "Kh2",
+    "position_before": "-63.62",
+    "position_after": "-69.48",
+    "position_loss": "-5.86",
+    "position_svg": "chess_mistakes/game_34_move_40_20250106_142329_position.svg",
+    "better_moves": [
+      {
+        "move": "Kh2",
+        "score": "-74.78"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_34_move_40_20250106_142329_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769917976",
+    "move_number": 15,
+    "player_color": "White",
+    "move_played": "g4",
+    "position_before": "+0.27",
+    "position_after": "-5.57",
+    "position_loss": "-5.84",
+    "position_svg": "chess_mistakes/game_34_move_15_20250106_142329_position.svg",
+    "better_moves": [
+      {
+        "move": "Nd2",
+        "score": "+0.57"
+      },
+      {
+        "move": "Re1",
+        "score": "+0.55"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_34_move_15_20250106_142329_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769607098",
+    "move_number": 19,
+    "player_color": "White",
+    "move_played": "Qa4",
+    "position_before": "-6.30",
+    "position_after": "-13.23",
+    "position_loss": "-6.93",
+    "position_svg": "chess_mistakes/game_35_move_19_20250106_142334_position.svg",
+    "better_moves": [
+      {
+        "move": "Rab1",
+        "score": "-6.87"
+      },
+      {
+        "move": "a4",
+        "score": "-7.92"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_35_move_19_20250106_142334_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769607098",
+    "move_number": 17,
+    "player_color": "White",
+    "move_played": "Qc2",
+    "position_before": "-2.95",
+    "position_after": "-8.33",
+    "position_loss": "-5.38",
+    "position_svg": "chess_mistakes/game_35_move_17_20250106_142334_position.svg",
+    "better_moves": [
+      {
+        "move": "Kf1",
+        "score": "-3.35"
+      },
+      {
+        "move": "Kh1",
+        "score": "-7.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_35_move_17_20250106_142334_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769607098",
+    "move_number": 16,
+    "player_color": "White",
+    "move_played": "Rd1",
+    "position_before": "+0.65",
+    "position_after": "-3.40",
+    "position_loss": "-4.05",
+    "position_svg": "chess_mistakes/game_35_move_16_20250106_142334_position.svg",
+    "better_moves": [
+      {
+        "move": "Nf4",
+        "score": "+0.20"
+      },
+      {
+        "move": "Kh1",
+        "score": "-1.64"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_35_move_16_20250106_142334_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769232982",
+    "move_number": 20,
+    "player_color": "Black",
+    "move_played": "b5",
+    "position_before": "-5.96",
+    "position_after": "-2.22",
+    "position_loss": "-3.74",
+    "position_svg": "chess_mistakes/game_36_move_20_20250106_142341_position.svg",
+    "better_moves": [
+      {
+        "move": "b6",
+        "score": "-6.00"
+      },
+      {
+        "move": "Nf4",
+        "score": "-5.78"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_36_move_20_20250106_142341_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769232982",
+    "move_number": 17,
+    "player_color": "Black",
+    "move_played": "Nxe4",
+    "position_before": "-7.56",
+    "position_after": "-5.35",
+    "position_loss": "-2.21",
+    "position_svg": "chess_mistakes/game_36_move_17_20250106_142341_position.svg",
+    "better_moves": [
+      {
+        "move": "Qxe3",
+        "score": "-8.61"
+      },
+      {
+        "move": "Nxe4",
+        "score": "-6.09"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_36_move_17_20250106_142341_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121769232982",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "dxe4",
+    "position_before": "-5.96",
+    "position_after": "-4.04",
+    "position_loss": "-1.92",
+    "position_svg": "chess_mistakes/game_36_move_16_20250106_142341_position.svg",
+    "better_moves": [
+      {
+        "move": "Qxe3",
+        "score": "-5.85"
+      },
+      {
+        "move": "dxe4",
+        "score": "-4.24"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_36_move_16_20250106_142341_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768826146",
+    "move_number": 42,
+    "player_color": "White",
+    "move_played": "Ra1",
+    "position_before": "-12.40",
+    "position_after": "M-3",
+    "position_loss": "-99987.60",
+    "position_svg": "chess_mistakes/game_37_move_42_20250106_142352_position.svg",
+    "better_moves": [
+      {
+        "move": "Rg1",
+        "score": "-12.61"
+      },
+      {
+        "move": "Rf2",
+        "score": "-71.07"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_37_move_42_20250106_142352_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768826146",
+    "move_number": 41,
+    "player_color": "White",
+    "move_played": "Nxd8",
+    "position_before": "-18.12",
+    "position_after": "M-3",
+    "position_loss": "-99981.88",
+    "position_svg": "chess_mistakes/game_37_move_41_20250106_142352_position.svg",
+    "better_moves": [
+      {
+        "move": "Ng5",
+        "score": "-18.15"
+      },
+      {
+        "move": "Rf2",
+        "score": "-18.30"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_37_move_41_20250106_142352_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768826146",
+    "move_number": 40,
+    "player_color": "White",
+    "move_played": "Rd8",
+    "position_before": "-12.23",
+    "position_after": "-35.86",
+    "position_loss": "-23.63",
+    "position_svg": "chess_mistakes/game_37_move_40_20250106_142353_position.svg",
+    "better_moves": [
+      {
+        "move": "Nc7",
+        "score": "-12.00"
+      },
+      {
+        "move": "Ng5",
+        "score": "-14.84"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_37_move_40_20250106_142353_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768495322",
+    "move_number": 24,
+    "player_color": "White",
+    "move_played": "Qxe7",
+    "position_before": "-12.18",
+    "position_after": "M-5",
+    "position_loss": "-99987.82",
+    "position_svg": "chess_mistakes/game_38_move_24_20250106_142358_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxe7",
+        "score": "-12.33"
+      },
+      {
+        "move": "Qb8",
+        "score": "-16.76"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_38_move_24_20250106_142358_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768495322",
+    "move_number": 20,
+    "player_color": "White",
+    "move_played": "Qb7",
+    "position_before": "+4.49",
+    "position_after": "-9.92",
+    "position_loss": "-14.41",
+    "position_svg": "chess_mistakes/game_38_move_20_20250106_142358_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxg4",
+        "score": "+1.50"
+      },
+      {
+        "move": "Bg5",
+        "score": "-0.31"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_38_move_20_20250106_142358_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121768495322",
+    "move_number": 19,
+    "player_color": "White",
+    "move_played": "Qxd5",
+    "position_before": "+8.79",
+    "position_after": "-3.74",
+    "position_loss": "-12.53",
+    "position_svg": "chess_mistakes/game_38_move_19_20250106_142358_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxg4",
+        "score": "+7.53"
+      },
+      {
+        "move": "Bxd5",
+        "score": "+3.86"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_38_move_19_20250106_142358_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767811860",
+    "move_number": 21,
+    "player_color": "Black",
+    "move_played": "a5",
+    "position_before": "-2.38",
+    "position_after": "-0.27",
+    "position_loss": "-2.11",
+    "position_svg": "chess_mistakes/game_40_move_21_20250106_142407_position.svg",
+    "better_moves": [
+      {
+        "move": "Bg5",
+        "score": "-2.12"
+      },
+      {
+        "move": "Rc8",
+        "score": "-2.05"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_40_move_21_20250106_142407_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767811860",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "Qf6",
+    "position_before": "-1.28",
+    "position_after": "+0.51",
+    "position_loss": "-1.79",
+    "position_svg": "chess_mistakes/game_40_move_16_20250106_142407_position.svg",
+    "better_moves": [
+      {
+        "move": "Bd2",
+        "score": "-1.16"
+      },
+      {
+        "move": "b6",
+        "score": "-0.29"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_40_move_16_20250106_142407_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767811860",
+    "move_number": 24,
+    "player_color": "Black",
+    "move_played": "Nxf2",
+    "position_before": "-7.53",
+    "position_after": "-6.08",
+    "position_loss": "-1.45",
+    "position_svg": "chess_mistakes/game_40_move_24_20250106_142407_position.svg",
+    "better_moves": [
+      {
+        "move": "Bc5",
+        "score": "-7.15"
+      },
+      {
+        "move": "a4",
+        "score": "-7.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_40_move_24_20250106_142407_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767334554",
+    "move_number": 35,
+    "player_color": "White",
+    "move_played": "Qxg7#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_41_move_35_20250106_142413_position.svg",
+    "better_moves": [
+      {
+        "move": "Qxg7#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Rxg7+",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_41_move_35_20250106_142413_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767334554",
+    "move_number": 33,
+    "player_color": "White",
+    "move_played": "Rf3",
+    "position_before": "+0.00",
+    "position_after": "-3.73",
+    "position_loss": "-3.73",
+    "position_svg": "chess_mistakes/game_41_move_33_20250106_142413_position.svg",
+    "better_moves": [
+      {
+        "move": "Rxf6",
+        "score": "+0.05"
+      },
+      {
+        "move": "Qd7",
+        "score": "-3.22"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_41_move_33_20250106_142413_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121767334554",
+    "move_number": 12,
+    "player_color": "White",
+    "move_played": "Nxc6",
+    "position_before": "+2.81",
+    "position_after": "+0.23",
+    "position_loss": "-2.58",
+    "position_svg": "chess_mistakes/game_41_move_12_20250106_142413_position.svg",
+    "better_moves": [
+      {
+        "move": "Qh5+",
+        "score": "+2.61"
+      },
+      {
+        "move": "Nxc6",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_41_move_12_20250106_142413_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121766859432",
+    "move_number": 4,
+    "player_color": "Black",
+    "move_played": "Ne7",
+    "position_before": "+0.00",
+    "position_after": "+1.50",
+    "position_loss": "-1.50",
+    "position_svg": "chess_mistakes/game_42_move_4_20250106_142419_position.svg",
+    "better_moves": [
+      {
+        "move": "Nc6",
+        "score": "+0.22"
+      },
+      {
+        "move": "Be7",
+        "score": "+0.25"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_42_move_4_20250106_142419_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121766859432",
+    "move_number": 9,
+    "player_color": "Black",
+    "move_played": "Qd8",
+    "position_before": "-0.33",
+    "position_after": "+0.92",
+    "position_loss": "-1.25",
+    "position_svg": "chess_mistakes/game_42_move_9_20250106_142419_position.svg",
+    "better_moves": [
+      {
+        "move": "f5",
+        "score": "-0.26"
+      },
+      {
+        "move": "d5",
+        "score": "-0.24"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_42_move_9_20250106_142419_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121766182908",
+    "move_number": 48,
+    "player_color": "White",
+    "move_played": "Bh5#",
+    "position_before": "M1",
+    "position_after": "M0",
+    "position_loss": "-200000.00",
+    "position_svg": "chess_mistakes/game_44_move_48_20250106_142434_position.svg",
+    "better_moves": [
+      {
+        "move": "Bh5#",
+        "score": "+0.00"
+      },
+      {
+        "move": "Qe7#",
+        "score": "+0.00"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_44_move_48_20250106_142434_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121766182908",
+    "move_number": 41,
+    "player_color": "White",
+    "move_played": "Rd7",
+    "position_before": "+61.60",
+    "position_after": "+10.40",
+    "position_loss": "-51.20",
+    "position_svg": "chess_mistakes/game_44_move_41_20250106_142434_position.svg",
+    "better_moves": [
+      {
+        "move": "Re8+",
+        "score": "+60.67"
+      },
+      {
+        "move": "Rc7+",
+        "score": "+60.35"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_44_move_41_20250106_142434_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121766182908",
+    "move_number": 18,
+    "player_color": "White",
+    "move_played": "Qd3",
+    "position_before": "+11.37",
+    "position_after": "-4.26",
+    "position_loss": "-15.63",
+    "position_svg": "chess_mistakes/game_44_move_18_20250106_142434_position.svg",
+    "better_moves": [
+      {
+        "move": "Nb5",
+        "score": "+11.18"
+      },
+      {
+        "move": "Rxb7",
+        "score": "+11.07"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_44_move_18_20250106_142434_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765739952",
+    "move_number": 59,
+    "player_color": "White",
+    "move_played": "Kf6",
+    "position_before": "+19.84",
+    "position_after": "+0.00",
+    "position_loss": "-19.84",
+    "position_svg": "chess_mistakes/game_45_move_59_20250106_142444_position.svg",
+    "better_moves": [
+      {
+        "move": "c5",
+        "score": "+20.02"
+      },
+      {
+        "move": "Kg6",
+        "score": "+20.02"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_45_move_59_20250106_142444_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765739952",
+    "move_number": 24,
+    "player_color": "White",
+    "move_played": "Rfe1",
+    "position_before": "+7.76",
+    "position_after": "+0.55",
+    "position_loss": "-7.21",
+    "position_svg": "chess_mistakes/game_45_move_24_20250106_142444_position.svg",
+    "better_moves": [
+      {
+        "move": "cxd5",
+        "score": "+7.92"
+      },
+      {
+        "move": "Nxd2",
+        "score": "+6.92"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_45_move_24_20250106_142444_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765739952",
+    "move_number": 42,
+    "player_color": "White",
+    "move_played": "a4",
+    "position_before": "+7.85",
+    "position_after": "+1.76",
+    "position_loss": "-6.09",
+    "position_svg": "chess_mistakes/game_45_move_42_20250106_142444_position.svg",
+    "better_moves": [
+      {
+        "move": "bxa6",
+        "score": "+7.36"
+      },
+      {
+        "move": "a4",
+        "score": "+2.12"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_45_move_42_20250106_142444_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765479832",
+    "move_number": 14,
+    "player_color": "Black",
+    "move_played": "Kd8",
+    "position_before": "-2.76",
+    "position_after": "+7.00",
+    "position_loss": "-9.76",
+    "position_svg": "chess_mistakes/game_46_move_14_20250106_142447_position.svg",
+    "better_moves": [
+      {
+        "move": "g6",
+        "score": "-3.60"
+      },
+      {
+        "move": "Kd8",
+        "score": "+7.26"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_46_move_14_20250106_142447_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765479832",
+    "move_number": 15,
+    "player_color": "Black",
+    "move_played": "Ke7",
+    "position_before": "+2.75",
+    "position_after": "+11.82",
+    "position_loss": "-9.07",
+    "position_svg": "chess_mistakes/game_46_move_15_20250106_142447_position.svg",
+    "better_moves": [
+      {
+        "move": "Bxf7",
+        "score": "+2.43"
+      },
+      {
+        "move": "Kd7",
+        "score": "+9.29"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_46_move_15_20250106_142447_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121765479832",
+    "move_number": 11,
+    "player_color": "Black",
+    "move_played": "Nxd4",
+    "position_before": "+1.55",
+    "position_after": "+5.39",
+    "position_loss": "-3.84",
+    "position_svg": "chess_mistakes/game_46_move_11_20250106_142447_position.svg",
+    "better_moves": [
+      {
+        "move": "Be6",
+        "score": "+2.21"
+      },
+      {
+        "move": "Qd6",
+        "score": "+3.03"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_46_move_11_20250106_142447_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764853302",
+    "move_number": 3,
+    "player_color": "Black",
+    "move_played": "Nd4",
+    "position_before": "+0.74",
+    "position_after": "+7.24",
+    "position_loss": "-6.50",
+    "position_svg": "chess_mistakes/game_47_move_3_20250106_142458_position.svg",
+    "better_moves": [
+      {
+        "move": "Nce7",
+        "score": "+0.67"
+      },
+      {
+        "move": "Nb8",
+        "score": "+1.20"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_47_move_3_20250106_142458_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764853302",
+    "move_number": 16,
+    "player_color": "Black",
+    "move_played": "Nd5",
+    "position_before": "+4.50",
+    "position_after": "+7.45",
+    "position_loss": "-2.95",
+    "position_svg": "chess_mistakes/game_47_move_16_20250106_142458_position.svg",
+    "better_moves": [
+      {
+        "move": "a5",
+        "score": "+4.49"
+      },
+      {
+        "move": "b6",
+        "score": "+5.52"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_47_move_16_20250106_142458_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764853302",
+    "move_number": 23,
+    "player_color": "Black",
+    "move_played": "Kc7",
+    "position_before": "+5.83",
+    "position_after": "+8.55",
+    "position_loss": "-2.72",
+    "position_svg": "chess_mistakes/game_47_move_23_20250106_142458_position.svg",
+    "better_moves": [
+      {
+        "move": "a5",
+        "score": "+5.81"
+      },
+      {
+        "move": "Re8",
+        "score": "+6.13"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_47_move_23_20250106_142458_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764548292",
+    "move_number": 46,
+    "player_color": "White",
+    "move_played": "Kg5",
+    "position_before": "-64.30",
+    "position_after": "M-5",
+    "position_loss": "-99935.70",
+    "position_svg": "chess_mistakes/game_49_move_46_20250106_142510_position.svg",
+    "better_moves": [
+      {
+        "move": "Ke5",
+        "score": "-65.01"
+      },
+      {
+        "move": "Ke4",
+        "score": "-66.25"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_49_move_46_20250106_142510_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764548292",
+    "move_number": 42,
+    "player_color": "White",
+    "move_played": "f4",
+    "position_before": "-6.30",
+    "position_after": "-57.05",
+    "position_loss": "-50.75",
+    "position_svg": "chess_mistakes/game_49_move_42_20250106_142510_position.svg",
+    "better_moves": [
+      {
+        "move": "Kg4",
+        "score": "-6.47"
+      },
+      {
+        "move": "h5",
+        "score": "-9.30"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_49_move_42_20250106_142510_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764548292",
+    "move_number": 24,
+    "player_color": "White",
+    "move_played": "Kh2",
+    "position_before": "+7.03",
+    "position_after": "-0.92",
+    "position_loss": "-7.95",
+    "position_svg": "chess_mistakes/game_49_move_24_20250106_142510_position.svg",
+    "better_moves": [
+      {
+        "move": "Nxe2",
+        "score": "+6.24"
+      },
+      {
+        "move": "Kf1",
+        "score": "-0.82"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_49_move_24_20250106_142510_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764179618",
+    "move_number": 31,
+    "player_color": "White",
+    "move_played": "fxe3",
+    "position_before": "-8.83",
+    "position_after": "M-1",
+    "position_loss": "-99991.17",
+    "position_svg": "chess_mistakes/game_50_move_31_20250106_142519_position.svg",
+    "better_moves": [
+      {
+        "move": "Rf1",
+        "score": "-11.34"
+      },
+      {
+        "move": "Rc1",
+        "score": "-11.37"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_50_move_31_20250106_142519_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764179618",
+    "move_number": 26,
+    "player_color": "White",
+    "move_played": "Rb1",
+    "position_before": "+0.91",
+    "position_after": "-9.86",
+    "position_loss": "-10.77",
+    "position_svg": "chess_mistakes/game_50_move_26_20250106_142519_position.svg",
+    "better_moves": [
+      {
+        "move": "Qe6+",
+        "score": "+1.44"
+      },
+      {
+        "move": "c4",
+        "score": "-7.23"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_50_move_26_20250106_142519_best_move.svg"
+  },
+  {
+    "game_url": "https://www.chess.com/game/live/121764179618",
+    "move_number": 28,
+    "player_color": "White",
+    "move_played": "Qc5",
+    "position_before": "-8.20",
+    "position_after": "-12.94",
+    "position_loss": "-4.74",
+    "position_svg": "chess_mistakes/game_50_move_28_20250106_142519_position.svg",
+    "better_moves": [
+      {
+        "move": "Rf1",
+        "score": "-7.90"
+      },
+      {
+        "move": "Re1",
+        "score": "-7.96"
+      }
+    ],
+    "best_move_svg": "chess_mistakes/game_50_move_28_20250106_142519_best_move.svg"
+  }
+]

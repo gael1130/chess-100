@@ -1,0 +1,26 @@
+/* stats_app/static/stats_app/style.css */
+
+.username-input {
+    width: 300px; /* Adjust the width as needed */
+    max-width: 100%; /* Ensure it doesn't exceed the container width on smaller screens */
+    padding: 5px; /* Optional: Add some padding for better appearance */
+    font-size: 16px; /* Optional: Adjust the font size */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form {
+    margin: 20px 0;
+}
+
+button[type="submit"] {
+    margin-top: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+

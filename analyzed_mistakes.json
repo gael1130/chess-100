@@ -1,0 +1,73 @@
+[
+  {
+    "url": "https://www.chess.com/game/daily/750294679",
+    "end_time": 1736000104,
+    "end_time_formatted": "2025-01-04 15:15:04",
+    "player_color": "Black",
+    "mistakes": []
+  },
+  {
+    "url": "https://www.chess.com/game/daily/750294559",
+    "end_time": 1735898440,
+    "end_time_formatted": "2025-01-03 11:00:40",
+    "player_color": "White",
+    "mistakes": [
+      {
+        "move_number": 35,
+        "move_played": "e4e5",
+        "eval_diff": -99939.18,
+        "current_position": "chess_mistakes/game_1_mistake_1_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_1_mistake_1_correct_move.svg",
+        "analysis": "Move 35: Ke5\nEvaluation before: -60.82\nEvaluation after: M-4\nLoss: 99939.18\n\nBest moves were:\n1. Ke5 (Score: M-61.76)\n2. Kf3 (Score: M-64.11)\n3. Kd3 (Score: M-67.86)\n"
+      },
+      {
+        "move_number": 33,
+        "move_played": "g2f3",
+        "eval_diff": -48.55,
+        "current_position": "chess_mistakes/game_2_mistake_2_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_2_mistake_2_correct_move.svg",
+        "analysis": "Move 33: Kf3\nEvaluation before: -14.46\nEvaluation after: -63.01\nLoss: 48.55\n\nBest moves were:\n1. Rd2 (Score: M-15.07)\n2. Kf1 (Score: M-15.3)\n3. Re4 (Score: M-19.84)\n"
+      },
+      {
+        "move_number": 34,
+        "move_played": "f3e4",
+        "eval_diff": -46.510000000000005,
+        "current_position": "chess_mistakes/game_3_mistake_3_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_3_mistake_3_correct_move.svg",
+        "analysis": "Move 34: Ke4\nEvaluation before: -15.23\nEvaluation after: -61.74\nLoss: 46.51\n\nBest moves were:\n1. Rb2 (Score: M-15.09)\n2. Rc2 (Score: M-15.1)\n3. a4 (Score: M-15.88)\n"
+      }
+    ]
+  },
+  {
+    "url": "https://www.chess.com/game/daily/750294663",
+    "end_time": 1735834449,
+    "end_time_formatted": "2025-01-02 17:14:09",
+    "player_color": "Black",
+    "mistakes": [
+      {
+        "move_number": 28,
+        "move_played": "d1g4",
+        "eval_diff": -99958.77,
+        "current_position": "chess_mistakes/game_1_mistake_1_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_1_mistake_1_correct_move.svg",
+        "analysis": "Move 28: Qxg4\nEvaluation before: -41.23\nEvaluation after: M-9\nLoss: 99958.77\n\nBest moves were:\n3. Qf3+ (Score: M-25.54)\n"
+      },
+      {
+        "move_number": 29,
+        "move_played": "g4h4",
+        "eval_diff": -99909.76,
+        "current_position": "chess_mistakes/game_2_mistake_2_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_2_mistake_2_correct_move.svg",
+        "analysis": "Move 29: Qh4+\nEvaluation before: -90.24\nEvaluation after: M-8\nLoss: 99909.76\n\nBest moves were:\n3. Qxh3 (Score: M-80.15)\n"
+      },
+      {
+        "move_number": 24,
+        "move_played": "d4f2",
+        "eval_diff": -1.2600000000000016,
+        "current_position": "chess_mistakes/game_3_mistake_3_mistake_pos.svg",
+        "best_move": "chess_mistakes/game_3_mistake_3_correct_move.svg",
+        "analysis": "Move 24: Qxf2\nEvaluation before: -16.90\nEvaluation after: -18.16\nLoss: 1.26\n\nBest moves were:\n1. Qxf2 (Score: M-16.14)\n2. g5 (Score: M-11.61)\n3. Rhg8 (Score: M-10.88)\n"
+      }
+    ]
+  }
+]
